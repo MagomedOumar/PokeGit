@@ -1,1 +1,2 @@
-Pikachu
+Nom	: Pikachu
+Numero  : 25
