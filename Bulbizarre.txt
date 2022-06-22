@@ -1,1 +1,2 @@
-Bulbizarre
+Nom 	: Bulbizarre
+Numéro 	: 1
