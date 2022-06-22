@@ -1,0 +1,2 @@
+Nom	: Pikachu
+Numero  : 25
